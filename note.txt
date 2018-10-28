@@ -1,0 +1,40 @@
+
+
+第一步：
+	1、编写数据库
+	2、编写数据 库辅助类
+	
+	
+	包的命名规范
+		cn.buy.entity
+		cn.buy.dao.user
+		cn.buy.dao.user.impl
+		cn.buy.dao.impl
+		cn.buy.service
+		cn.buy.service.impl
+		cn.buy.web.servlet
+		cn.buy.filter
+		cn.buy.utils
+	
+	配置文件:database.properties
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
